@@ -1,0 +1,5 @@
+-made an ec2 instance and ran a bash script installing the nginx server
+-installed docker on the ec2 instance mapped it with the website (slim.zip) 
+-configured security groups and allowed access to port 80 and 8080
+-copied the slim.zip file contents to nginx's index.html
+-view the website by IP:8080/slim/index.html
